@@ -8,12 +8,11 @@ function readLocationData(){
 }
 
 
-
+const url = "http://localhost:5555"
 
 locationRouter.get("/", (_req, res) => {
     const locationData = readLocationData();
     res.json(locationData)
-
 });
 
 module.exports = locationRouter;

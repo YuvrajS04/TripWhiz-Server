@@ -2,6 +2,17 @@
     {
        "location": "Hawaii",
        "tags": ["tropical", "adventure", "scenic"],
-       "images": ["../assets/pexels-james-wheeler-3936144.jpg", "../assets/pexels-jess-loiterton-4319771.jpg", "../assets/pexels-jess-loiterton-4319881.jpg"]
+       "images": [{
+        "url" : "1.jpg",
+        "tag" : "beach"
+       },
+       {
+        "url" : "pexels-davi-pimentel-2064827.jpg",
+        "tag" : "beach"
+       },
+       {
+        "url" : "pexels-mark-neal-2225442.jpg",
+        "tag" : "beach"
+       }]
     }
 ]

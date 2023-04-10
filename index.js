@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const locationRoutes = require("./routes/locationRoutes");
 const port = 5555;
-app.use(express.static('assets'));
+app.use(express.static('public'));
 const cors = require("cors");
 
 app.use(cors());
