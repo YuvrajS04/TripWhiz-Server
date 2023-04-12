@@ -1,18 +1,158 @@
 [
-    {
-       "location": "Hawaii",
-       "tags": ["tropical", "adventure", "scenic"],
-       "images": [{
-        "url" : "1.jpg",
-        "tag" : "beach"
-       },
-       {
-        "url" : "pexels-davi-pimentel-2064827.jpg",
-        "tag" : "beach"
-       },
-       {
-        "url" : "pexels-mark-neal-2225442.jpg",
-        "tag" : "beach"
-       }]
-    }
+  {
+    "location": "Hawaii",
+    "tags": ["tropical", "adventure", "scenic"],
+    "images": [
+      {
+        "url": "hawaii1.jpg",
+        "location": "Hawaii"
+      },
+      {
+        "url": "hawaii2.jpg",
+        "location": "Hawaii"
+      },
+      {
+        "url": "hawaii3.jpg",
+        "location": "Hawaii"
+      },
+      {
+        "url": "hawaii4.jpg",
+        "location": "Hawaii"
+      },
+      {
+        "url": "hawaii5.jpg",
+        "location": "Hawaii"
+      }
+    ]
+  },
+  {
+    "location": "Rio de Janeiro",
+    "tags": ["beach", "sceneic", "nightlife"],
+    "images": [
+      {
+        "url": "rome1.jpg",
+        "location": "Rio de Janeiro"
+      },
+      {
+        "url": "rome2.jpg",
+        "location": "Rio de Janeiro"
+      },
+      {
+        "url": "rome3.jpg",
+        "location": "Rio de Janeiro"
+      },
+      {
+        "url": "rome4.jpg",
+        "location": "Rio de Janeiro"
+      },
+      {
+        "url": "rome5.jpg",
+        "location": "Rio de Janeiro"
+      }
+    ]
+  },
+  {
+    "location": "Bali",
+    "tags": ["tropical", "beach", "culture"],
+    "images": [
+      {
+        "url": "hawaii1.jpg",
+        "location": "Bali"
+      },
+      {
+        "url": "hawaii2.jpg",
+        "location": "Bali"
+      },
+      {
+        "url": "hawaii3.jpg",
+        "location": "Bali"
+      },
+      {
+        "url": "hawaii4.jpg",
+        "location": "Bali"
+      },
+      {
+        "url": "hawaii5.jpg",
+        "location": "Bali"
+      }
+    ]
+  },
+  {
+    "location": "Rome",
+    "tags": ["historical", "culture", "city"],
+    "images": [
+      {
+        "url": "rome1.jpg",
+        "location": "Rome"
+      },
+      {
+        "url": "rome2.jpg",
+        "location": "Rome"
+      },
+      {
+        "url": "rome3.jpg",
+        "location": "Rome"
+      },
+      {
+        "url": "rome4.jpg",
+        "location": "Rome"
+      },
+      {
+        "url": "rome5.jpg",
+        "location": "Rome"
+      }
+    ]
+  },
+  {
+    "location": "Banff",
+    "tags": ["adventure", "mountains", "hiking"],
+    "images": [
+      {
+        "url": "Banff1.jpg",
+        "location": "Banff"
+      },
+      {
+        "url": "Banff2.jpg",
+        "location": "Banff"
+      },
+      {
+        "url": "Banff3.jpg",
+        "location": "Banff"
+      },
+      {
+        "url": "Banff4.jpg",
+        "location": "Banff"
+      },
+      {
+        "url": "Banff5.jpg",
+        "location": "Banff"
+      }
+    ]
+  },
+  {
+    "location": "Kyoto",
+    "tags": ["historical", "food", "scenic"],
+    "images": [
+      {
+        "url": "Kyoto1.jpg",
+        "location": "Kyoto"
+      },
+      {
+        "url": "Kyoto2.jpg",
+        "location": "Kyoto"
+      },
+      {
+        "url": "Kyoto3.jpg",
+        "location": "Kyoto"
+      },
+      {
+        "url": "Kyoto4.jpg",
+        "location": "Kyoto"
+      },
+      {
+        "url": "Kyoto5.jpg",
+        "location": "Kyoto"
+      }
+    ]
+  }
 ]
