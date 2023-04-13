@@ -7,7 +7,6 @@ function readLocationData(){
     return locationData;
 }
 
-
 const url = "http://localhost:5555"
 
 locationRouter.get("/", (_req, res) => {

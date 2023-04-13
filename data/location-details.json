@@ -27,26 +27,26 @@
   },
   {
     "location": "Rio de Janeiro",
-    "tags": ["beach", "sceneic", "nightlife"],
+    "tags": ["beach", "scenic", "nightlife"],
     "images": [
       {
-        "url": "rome1.jpg",
+        "url": "rio1.jpg",
         "location": "Rio de Janeiro"
       },
       {
-        "url": "rome2.jpg",
+        "url": "rio2.jpg",
         "location": "Rio de Janeiro"
       },
       {
-        "url": "rome3.jpg",
+        "url": "rio3.jpg",
         "location": "Rio de Janeiro"
       },
       {
-        "url": "rome4.jpg",
+        "url": "rio4.jpg",
         "location": "Rio de Janeiro"
       },
       {
-        "url": "rome5.jpg",
+        "url": "rio5.jpg",
         "location": "Rio de Janeiro"
       }
     ]
@@ -56,23 +56,23 @@
     "tags": ["tropical", "beach", "culture"],
     "images": [
       {
-        "url": "hawaii1.jpg",
+        "url": "bali1.jpg",
         "location": "Bali"
       },
       {
-        "url": "hawaii2.jpg",
+        "url": "bali2.jpg",
         "location": "Bali"
       },
       {
-        "url": "hawaii3.jpg",
+        "url": "bali3.jpg",
         "location": "Bali"
       },
       {
-        "url": "hawaii4.jpg",
+        "url": "bali4.jpg",
         "location": "Bali"
       },
       {
-        "url": "hawaii5.jpg",
+        "url": "bali5.jpg",
         "location": "Bali"
       }
     ]
@@ -108,23 +108,23 @@
     "tags": ["adventure", "mountains", "hiking"],
     "images": [
       {
-        "url": "Banff1.jpg",
+        "url": "banff1.jpg",
         "location": "Banff"
       },
       {
-        "url": "Banff2.jpg",
+        "url": "banff2.jpg",
         "location": "Banff"
       },
       {
-        "url": "Banff3.jpg",
+        "url": "banff3.jpg",
         "location": "Banff"
       },
       {
-        "url": "Banff4.jpg",
+        "url": "banff4.jpg",
         "location": "Banff"
       },
       {
-        "url": "Banff5.jpg",
+        "url": "banff5.jpg",
         "location": "Banff"
       }
     ]
@@ -134,24 +134,76 @@
     "tags": ["historical", "food", "scenic"],
     "images": [
       {
-        "url": "Kyoto1.jpg",
+        "url": "kyoto1.jpg",
         "location": "Kyoto"
       },
       {
-        "url": "Kyoto2.jpg",
+        "url": "kyoto2.jpg",
         "location": "Kyoto"
       },
       {
-        "url": "Kyoto3.jpg",
+        "url": "kyoto3.jpg",
         "location": "Kyoto"
       },
       {
-        "url": "Kyoto4.jpg",
+        "url": "kyoto4.jpg",
         "location": "Kyoto"
       },
       {
-        "url": "Kyoto5.jpg",
+        "url": "kyoto5.jpg",
         "location": "Kyoto"
+      }
+    ]
+  },
+  {
+    "location": "Cape Town",
+    "tags": ["scenic", "beach", "wildlife"],
+    "images": [
+      {
+        "url": "capetown1.jpg",
+        "location": "Cape Town"
+      },
+      {
+        "url": "capetown2.jpg",
+        "location": "Cape Town"
+      },
+      {
+        "url": "capetown3.jpg",
+        "location": "Cape Town"
+      },
+      {
+        "url": "capetown4.jpg",
+        "location": "Cape Town"
+      },
+      {
+        "url": "capetown5.jpg",
+        "location": "Cape Town"
+      }
+    ]
+  },
+  {
+    "location": "Barcelona",
+    "tags": ["city", "culture", "nightlife"],
+    "images": [
+      {
+        "url": "barcelona1.jpg",
+        "location": "Barcelona"
+      },
+      {
+        "url": "barcelona2.jpg",
+        "location": "Barcelona"
+      },
+      {
+        "url": "barcelona3.jpg",
+        "location": "Barcelona"
+      },
+      {
+        "url": "barcelona4.jpg",
+        "location": "Barcelona"
+      },
+      {
+        "url": "barcelona5.jpg",
+        "location": "Barcelona"
       }
     ]
   }
