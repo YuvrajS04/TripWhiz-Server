@@ -206,5 +206,83 @@
         "location": "Barcelona"
       }
     ]
+  },
+  {
+    "location": "Turkey",
+    "tags": ["city", "culture", "family-friendly"],
+    "images": [
+      {
+        "url": "turkey1.jpg",
+        "location": "Turkey"
+      },
+      {
+        "url": "turkey2.jpg",
+        "location": "Turkey"
+      },
+      {
+        "url": "turkey3.jpg",
+        "location": "Turkey"
+      },
+      {
+        "url": "turkey4.jpg",
+        "location": "Turkey"
+      },
+      {
+        "url": "turkey5.jpg",
+        "location": "Turkey"
+      }
+    ]
+  },
+  {
+    "location": "Las Vegas",
+    "tags": ["nightlife", "city", "adventure"],
+    "images": [
+      {
+        "url": "lasvegas1.jpg",
+        "location": "Las Vegas"
+      },
+      {
+        "url": "lasvegas2.jpg",
+        "location": "Las Vegas"
+      },
+      {
+        "url": "lasvegas3.jpg",
+        "location": "Las Vegas"
+      },
+      {
+        "url": "lasvegas4.jpg",
+        "location": "Las Vegas"
+      },
+      {
+        "url": "lasvegas5.jpg",
+        "location": "Las Vegas"
+      }
+    ]
+  },
+  {
+    "location": "Chiang Mai",
+    "tags": ["relaxation", "scenic", "family-friendly"],
+    "images": [
+      {
+        "url": "chiangmai1.jpg",
+        "location": "Chiang Mai"
+      },
+      {
+        "url": "chiangmai2.jpg",
+        "location": "Chiang Mai"
+      },
+      {
+        "url": "chiangmai3.jpg",
+        "location": "Chiang Mai"
+      },
+      {
+        "url": "chiangmai4.jpg",
+        "location": "Chiang Mai"
+      },
+      {
+        "url": "chiangmai5.jpg",
+        "location": "Chiang Mai"
+      }
+    ]
   }
 ]
